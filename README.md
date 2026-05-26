@@ -1,7 +1,7 @@
 # portfolio
-# 💼 Portfolio of [Your Name]
+# 💼 Portfolio of [Bommasani Peddaraju]
 
-Hi! I'm **[Your Name]**, a passionate **Computer Science / AI & ML / Full Stack Developer** student. Welcome to my portfolio! This repository showcases my projects, skills, and experience in AI, Python, Web Development, and automation.
+Hi! I'm **[Bommasani Peddarju]**, a passionate **Computer Science / AI & ML / Full Stack Developer** student. Welcome to my portfolio! This repository showcases my projects, skills, and experience in AI, Python, Web Development, and automation.
 
 ---
 
